@@ -1,0 +1,122 @@
+[
+  {
+    "day": "Senin",
+    "category": "pedas",
+    "name": "Ayam Sambal Bawang",
+    "description": "Nasi putih dengan ayam sambal bawang, buncis, wortel, dan taburan bawang goreng.",
+    "image": "/assets/menu/senin-pedas.webp",
+    "ingredients": "Nasi putih, ayam potong, sambal bawang, buncis, wortel, bawang goreng."
+  },
+  {
+    "day": "Senin",
+    "category": "gurih",
+    "name": "Ayam Teriyaki",
+    "description": "Nasi putih dengan ayam teriyaki, bawang bombay, wortel, buncis, dan taburan wijen.",
+    "image": "/assets/menu/senin-gurih.webp",
+    "ingredients": "Nasi putih, ayam teriyaki, bawang bombay, wortel, buncis, wijen."
+  },
+  {
+    "day": "Senin",
+    "category": "creamy",
+    "name": "Creamy Garlic Chicken",
+    "description": "Nasi putih dengan ayam saus creamy garlic, brokoli, wortel, dan parsley.",
+    "image": "/assets/menu/senin-creamy.webp",
+    "ingredients": "Nasi putih, ayam potong, saus creamy garlic, brokoli, wortel, parsley."
+  },
+  {
+    "day": "Selasa",
+    "category": "pedas",
+    "name": "Spaghetti Aglio Olio Chicken",
+    "description": "Spaghetti dengan ayam, bawang putih, cabai, parsley, dan brokoli.",
+    "image": "/assets/menu/selasa-pedas.webp",
+    "ingredients": "Spaghetti, ayam potong, bawang putih, cabai, parsley, brokoli."
+  },
+  {
+    "day": "Selasa",
+    "category": "gurih",
+    "name": "Chicken Bolognese",
+    "description": "Spaghetti dengan ayam cincang, saus tomat, bawang bombay, bawang putih, dan parsley.",
+    "image": "/assets/menu/selasa-gurih.webp",
+    "ingredients": "Spaghetti, ayam cincang, saus tomat, bawang bombay, bawang putih, parsley."
+  },
+  {
+    "day": "Selasa",
+    "category": "creamy",
+    "name": "Chicken Carbonara",
+    "description": "Spaghetti dengan ayam, saus carbonara creamy, keju, lada hitam, dan parsley.",
+    "image": "/assets/menu/selasa-creamy.webp",
+    "ingredients": "Spaghetti, ayam potong, saus carbonara creamy, keju, lada hitam, parsley."
+  },
+  {
+    "day": "Rabu",
+    "category": "pedas",
+    "name": "Ikan Dabu-Dabu",
+    "description": "Nasi putih dengan fillet ikan, sambal dabu-dabu dari tomat, cabai rawit, bawang merah, dan jeruk nipis, serta buncis dan wortel.",
+    "image": "/assets/menu/rabu-pedas.webp",
+    "ingredients": "Nasi putih, fillet ikan panggang/goreng, sambal dabu-dabu (tomat, cabai rawit, bawang merah, jeruk nipis), buncis, wortel."
+  },
+  {
+    "day": "Rabu",
+    "category": "gurih",
+    "name": "Ikan Asam Manis",
+    "description": "Nasi putih dengan fillet ikan goreng, saus asam manis, paprika, dan bawang bombay.",
+    "image": "/assets/menu/rabu-gurih.webp",
+    "ingredients": "Nasi putih, fillet ikan goreng, saus asam manis, paprika, bawang bombay."
+  },
+  {
+    "day": "Rabu",
+    "category": "creamy",
+    "name": "Creamy Lemon Fish",
+    "description": "Nasi putih dengan fillet ikan, saus creamy lemon, brokoli, wortel, dan parsley.",
+    "image": "/assets/menu/rabu-creamy.webp",
+    "ingredients": "Nasi putih, fillet ikan, saus creamy lemon, brokoli, wortel, parsley."
+  },
+  {
+    "day": "Kamis",
+    "category": "pedas",
+    "name": "Beef Cabe Ijo",
+    "description": "Nasi putih dengan beef slice, cabai hijau, cabai rawit hijau, bawang merah, bawang putih, bawang bombay, dan buncis.",
+    "image": "/assets/menu/kamis-pedas.webp",
+    "ingredients": "Nasi putih, beef slice 70–80 g, cabai hijau, cabai rawit hijau, bawang merah, bawang putih, bawang bombay, buncis."
+  },
+  {
+    "day": "Kamis",
+    "category": "gurih",
+    "name": "Beef Yakiniku",
+    "description": "Nasi putih dengan beef slice, saus yakiniku, bawang bombay, wijen, dan sayur pelengkap.",
+    "image": "/assets/menu/kamis-gurih.webp",
+    "ingredients": "Nasi putih, beef slice 70–80 g, saus yakiniku, bawang bombay, wijen, sayur pelengkap."
+  },
+  {
+    "day": "Kamis",
+    "category": "creamy",
+    "name": "Creamy Mushroom Beef",
+    "description": "Nasi putih dengan beef slice, saus creamy mushroom, jamur, lada hitam, dan buncis.",
+    "image": "/assets/menu/kamis-creamy.webp",
+    "ingredients": "Nasi putih, beef slice 70–80 g, saus creamy mushroom, jamur, lada hitam, buncis."
+  },
+  {
+    "day": "Jumat",
+    "category": "pedas",
+    "name": "Mie Chili Oil Chicken",
+    "description": "Mie telur dengan ayam, chili oil, sawi hijau, daun bawang, dan bawang goreng.",
+    "image": "/assets/menu/jumat-pedas.webp",
+    "ingredients": "Mie telur, ayam potong, chili oil, sawi hijau, daun bawang, bawang goreng."
+  },
+  {
+    "day": "Jumat",
+    "category": "gurih",
+    "name": "Mie Kecap Ayam",
+    "description": "Mie telur dengan ayam kecap, sawi hijau, bawang putih, dan daun bawang.",
+    "image": "/assets/menu/jumat-gurih.webp",
+    "ingredients": "Mie telur, ayam kecap, sawi hijau, bawang putih, daun bawang."
+  },
+  {
+    "day": "Jumat",
+    "category": "creamy",
+    "name": "Mie Creamy Chicken Mushroom",
+    "description": "Mie telur dengan ayam, saus creamy, jamur, sawi hijau, dan lada hitam.",
+    "image": "/assets/menu/jumat-creamy.webp",
+    "ingredients": "Mie telur, ayam potong, saus creamy, jamur, sawi hijau, lada hitam."
+  }
+]

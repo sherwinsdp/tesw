@@ -1,0 +1,15 @@
+{
+  "name": "MakanHati — Catering Harian",
+  "short_name": "MakanHati",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#8b1a2b",
+  "icons": [
+    {
+      "src": "/assets/brand/makanhati-logo.webp",
+      "sizes": "any",
+      "type": "image/webp"
+    }
+  ]
+}

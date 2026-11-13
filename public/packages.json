@@ -1,0 +1,95 @@
+[
+  {
+    "id": "dual-weekly",
+    "group": "dual",
+    "title": "Paket Sibuk Seharian",
+    "duration": "Mingguan",
+    "price": 350000,
+    "portions": 10,
+    "label": "Paket Sibuk Seharian · Siang & Malam · Mingguan · Rp350.000 (10x)",
+    "schedule": "Siang & Malam",
+    "bestValue": false
+  },
+  {
+    "id": "dual-monthly",
+    "group": "dual",
+    "title": "Paket Sibuk Seharian",
+    "duration": "Bulanan",
+    "price": 1280000,
+    "portions": 40,
+    "label": "Paket Sibuk Seharian · Siang & Malam · Bulanan · Rp1.280.000 (40x)",
+    "schedule": "Siang & Malam",
+    "bestValue": true
+  },
+  {
+    "id": "lunch-weekly",
+    "group": "lunch",
+    "title": "Paket Setengah Hari",
+    "duration": "Mingguan",
+    "price": 175000,
+    "portions": 5,
+    "label": "Paket Setengah Hari · Siang saja · Mingguan · Rp175.000 (5x)",
+    "schedule": "Siang saja",
+    "bestValue": false
+  },
+  {
+    "id": "lunch-monthly",
+    "group": "lunch",
+    "title": "Paket Setengah Hari",
+    "duration": "Bulanan",
+    "price": 660000,
+    "portions": 20,
+    "label": "Paket Setengah Hari · Siang saja · Bulanan · Rp660.000 (20x)",
+    "schedule": "Siang saja",
+    "bestValue": false
+  },
+  {
+    "id": "dinner-weekly",
+    "group": "dinner",
+    "title": "Paket Lembur",
+    "duration": "Mingguan",
+    "price": 175000,
+    "portions": 5,
+    "label": "Paket Lembur · Malam saja · Mingguan · Rp175.000 (5x)",
+    "schedule": "Malam saja",
+    "bestValue": false
+  },
+  {
+    "id": "dinner-monthly",
+    "group": "dinner",
+    "title": "Paket Lembur",
+    "duration": "Bulanan",
+    "price": 660000,
+    "portions": 20,
+    "label": "Paket Lembur · Malam saja · Bulanan · Rp660.000 (20x)",
+    "schedule": "Malam saja",
+    "bestValue": false
+  },
+  {
+    "id": "trial-lunch",
+    "group": "trial",
+    "title": "Paket Magang",
+    "duration": "Siang",
+    "price": 110000,
+    "portions": 3,
+    "label": "Paket Magang · Siang · Rp110.000 (3x)"
+  },
+  {
+    "id": "trial-dinner",
+    "group": "trial",
+    "title": "Paket Magang",
+    "duration": "Malam",
+    "price": 110000,
+    "portions": 3,
+    "label": "Paket Magang · Malam · Rp110.000 (3x)"
+  },
+  {
+    "id": "trial-dual",
+    "group": "trial",
+    "title": "Paket Magang",
+    "duration": "Siang & Malam",
+    "price": 220000,
+    "portions": 6,
+    "label": "Paket Magang · Siang & Malam · Rp220.000 (6x)"
+  }
+]
